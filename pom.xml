@@ -32,7 +32,7 @@
 
   <properties>
     <version.wildfly.swarm>2017.10.0</version.wildfly.swarm>
-    <version.resteasy>3.0.19.Final</version.resteasy>
+    <version.resteasy>4.5.6.Final-redhat-00004</version.resteasy>
     <version.arquillian.cube>1.9.2</version.arquillian.cube>
   </properties>
 
