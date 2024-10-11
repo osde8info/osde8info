@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Free Libre Open Source Desktop Environment Advocate and use Xubuntu, Kubuntu, Oracle Linux, Red Hat Linux on my desktops.
+I am a Free Libre Open Source Desktop Environment Advocate and use Xubuntu, Kubuntu, Oracle Linux & Red Hat Linux on my desktops (and servers).
 
 Note : **mygithubuser/mygithubuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
