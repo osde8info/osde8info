@@ -1,10 +1,11 @@
 ## Hi there 👋
 
+I am a Open Source Desktop Enviroment Advocate
+
+**mygithubuser/mygithubuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!--
-**osde8info/osde8info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
