@@ -2,7 +2,7 @@
 
 I am a Open Source Desktop Enviroment Advocate
 
-**mygithubuser/mygithubuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Note : **mygithubuser/mygithubuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 Here are some ideas to get you started:
